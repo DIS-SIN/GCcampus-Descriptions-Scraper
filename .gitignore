@@ -1,0 +1,7 @@
+# Files
+scraped_en.csv
+scraped_fr.csv
+
+# Directories
+**/__pycache__/
+**/.ipynb_checkpoints/
